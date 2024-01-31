@@ -1,5 +1,5 @@
-#' @title DATASET_TITLE
-#' @description DATASET_DESCRIPTION
+#' @title ratings_data
+#' @description Peer-rated Data on Psycho-Social Traits From a Chabu Community
 #' @format A data frame with 296 rows and 39 variables:
 #' \describe{
 #'   \item{\code{id}}{double Unique identifier for participants (ratees).}
