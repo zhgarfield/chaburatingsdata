@@ -11,3 +11,5 @@ To install:
 `library(devtools)`
 
 `install_github("zhgarfield/chaburatingsdata")`
+
+[![DOI](https://zenodo.org/badge/751810956.svg)](https://zenodo.org/doi/10.5281/zenodo.10687850)
