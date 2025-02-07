@@ -9,10 +9,12 @@ library(readr)
 
 # Read data ---------------------------------------------------------------
 
-ratings_data <- read_csv("data-raw/ratings_data.csv")
+prop_rankings_data <- read_csv("data-raw/proportional_rankings.csv")
+
+raw_ranking_data <- read_csv("data-raw/raw_rankings.csv")
 
 
 
 # End ---------------------------------------------------------------------
 
-usethis::use_data(ratings_data, overwrite = TRUE)
+usethis::use_data(prop_rankings_data, raw_ranking_data, overwrite = TRUE)
