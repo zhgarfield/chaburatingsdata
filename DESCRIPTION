@@ -16,7 +16,7 @@ License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 URL: https://www.sciencedirect.com/science/article/pii/S1048984318303746?via%3Dihub
 Depends: 
     R (>= 2.10)
